@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fish Supplies</string>
+    <string name="fishsupplies1">Fish tank: $45</string>
+    <string name="fishsupplies2">Flake Medley: $7</string>
+    <string name="fishsupplies3">Live Plant: $10</string>
+    <string name="fishsupplies4">Water conditioner: $10</string>
+    <string name="fishsupplies5">Water testing kit: $10</string>
+    <string name="fishsupplies6">Fish Net: $2</string>
+    <string name="fishsupplies7">Substrate: $10</string>
+    <string name="fishsupplies8">Fish decoration: $10</string>
+    <string name="fishsupplies9">Filter: $20</string>
+    <string name="fishsupplies10">Heater: $30</string>
+    <string name="fishsupplies11">Fish Food Pellets: $2</string>
+    <string name="fishsupplies12">Java Fern: $10</string>
+    <string name="fishsupplies13">Anubius Nana: $10</string>
+    <string name="fishsupplies14">Amazon Sword: $15 </string>
+    <string name="fishsupplies15">Lucky Bamboo: $15</string>
+    <string name="fishsupplies16">Spider Wood: $30</string>
+    <string name="fishsupplies17">Rock: $7</string>
+    <string name="fishsupplies18">Plant substrate: $16 </string>
+    <string name="fishsupplies19">Light: $17</string>
+    <string name="fishsupplies20">Aquarium Salt: $10</string>
+    <string name="fishsupplies21">Fish Tank Lid: $15</string>
+    <string name="fishsupplies22">Moss Ball: $9</string>
+    <string name="fishsupplies23">Blood Worms: $15</string>
+    <string name="fishsupplies24">Fake Plant: $5</string>
+    <string name="fishsupplies25">Siphon: $20</string>
+</resources>
