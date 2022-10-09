@@ -1,6 +1,7 @@
 package com.example.petsupplies.adapter
 
 import android.content.Context
+import android.util.SparseBooleanArray
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -32,6 +33,9 @@ class ItemAdapter(
         holder.imageView.setImageResource(item.imageResourceId)
 
     }
+
+
+
 
     override fun getItemCount() = dataset.size
 }
